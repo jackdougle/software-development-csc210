@@ -1,0 +1,29 @@
+
+PLANT (10,10) rose
+PLANT (0,3) tulip
+PLANT (0,3) daisy
+PLANT (2,1) sunflower
+PLANT (4,1) daisy
+grow 2
+plant (3,3) rose
+grow 1 (3,3)
+
+PLANT (6,0) kudzu
+PLANT (4,2) dodder
+grow 4 vine
+grow 1 dodder
+
+PLANT (6,1) garlic
+grow 2 garlic
+grow 1 Vegetable
+
+PLANT (0,5) oak
+grow 2 Tree
+
+harvest
+cut
+chop dodder
+chop
+pick (3,3)
+pick daisy
+pick
